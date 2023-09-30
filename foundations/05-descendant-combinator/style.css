@@ -1,0 +1,12 @@
+div .text {
+  background-color: yellow;
+  color: #ff0000;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+.solution {
+  width: 740px;
+  height: auto;
+}
