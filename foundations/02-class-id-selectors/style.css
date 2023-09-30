@@ -1,0 +1,24 @@
+.odd-elements {
+  background-color: #ffc0cb;
+  font-family: Verdana, DejaVu-Sans, sans-serif;
+}
+
+.second-style {
+  color: #00bfff;
+  font-size: 36px;
+}
+
+.third-style {
+  font-size: 24px;
+}
+
+#fourth-style {
+  background-color: hsl(120, 73%, 75%);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+#solution {
+  width: 740px;
+  height: auto;
+}
